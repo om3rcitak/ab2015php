@@ -1,0 +1,2 @@
+PDO bağlantısını gerçekleştirmek için derste yapılanın aynı yapısında bir database oluşturmanız gerek. Oluşturduğumuz database'in sql çıktısını ab2015pdo.sql dosyasında mevcut. Yeni veritabanı oluşturduktan sonra bu dosyayı "İçe Aktar" sekmesinden içe aktarırsanız database'iniz olumuş olur. Tekrar sıfırdan uğraşmayın :)
+
